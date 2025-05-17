@@ -7,14 +7,14 @@ main.ipynb - ноутбук проекта
 bank_fin.csv
 
 #### Используемые инструменты
-Python 3.13.1
-pandas 1.5.1
-numpy 1.23.4
-matplotlib 3.6.1
-seaborn 0.12.1
-plotly 5.11.0
++ Python 3.13.1
++ pandas 1.5.1
++ numpy 1.23.4
++ matplotlib 3.6.1
++ seaborn 0.12.1
++ plotly 5.11.0
 
 #### Инструкция по сборке проекта
-Создать директорию проекта.
-Инициировать локальный репозиторий и скачать файлы проекта: git init git remote add origin https://github.com/tvk2772/HH_DataCleaning.git git branch -M master git pull origin master
-Запустить проект
+1. Создать локальную папку проекта.
+2. Скачать файл проекта и файл данных в локальную папку.
+3. Запустить проект
